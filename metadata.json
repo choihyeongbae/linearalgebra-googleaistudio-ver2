@@ -1,0 +1,5 @@
+{
+  "name": "Movie Matcher AI",
+  "description": "A cinematic recommendation engine using cosine similarity to match user preferences with movies based on Action, Story, and Visuals.",
+  "requestFramePermissions": []
+}
